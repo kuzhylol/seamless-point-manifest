@@ -1,0 +1,1 @@
+# SeamlessPoint-manifest
