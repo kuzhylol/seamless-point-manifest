@@ -1,1 +1,1 @@
-# SeamlessPoint-manifest
+# seamless-point-manifest

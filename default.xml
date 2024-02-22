@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="mikebrady" fetch="https://github.com/mikebrady"/>
+  <remote name="arkq" fetch="https://github.com/Arkq"/>
+  <remote name="kuzhylol" fetch="git@github.com:kuzhylol"/>
+
+  <project remote="mikebrady" revision="master" name="shairport-sync" path="pool/shairport-sync-v1"/>
+  <project remote="mikebrady" revision="master" name="shairport-sync" path="pool/shairport-sync-v2"/>
+  <project remote="mikebrady" revision="main" name="nqptp" path="pool/nqptp"/>
+  <project remote="arkq" revision="master" name="bluez-alsa" path="pool/bluez-alsa"/>
+  <project remote="kuzhylol" revision="main" name="seamless-point" path="pool/seamless-point-core"/>
+</manifest>
