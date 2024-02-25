@@ -6,6 +6,7 @@
 
   <project remote="mikebrady" revision="master" name="shairport-sync" path="pool/shairport-sync-v1"/>
   <project remote="mikebrady" revision="master" name="shairport-sync" path="pool/shairport-sync-v2"/>
+  <project remote="mikebrady" revision="master" name="alac" path="pool/alac"/>
   <project remote="mikebrady" revision="main" name="nqptp" path="pool/nqptp"/>
   <project remote="arkq" revision="master" name="bluez-alsa" path="pool/bluez-alsa"/>
   <project remote="kuzhylol" revision="main" name="seamless-point" path="."/>
