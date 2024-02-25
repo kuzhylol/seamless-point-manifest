@@ -8,5 +8,5 @@
   <project remote="mikebrady" revision="master" name="shairport-sync" path="pool/shairport-sync-v2"/>
   <project remote="mikebrady" revision="main" name="nqptp" path="pool/nqptp"/>
   <project remote="arkq" revision="master" name="bluez-alsa" path="pool/bluez-alsa"/>
-  <project remote="kuzhylol" revision="main" name="seamless-point" path="pool/seamless-point-core"/>
+  <project remote="kuzhylol" revision="main" name="seamless-point" path="."/>
 </manifest>
