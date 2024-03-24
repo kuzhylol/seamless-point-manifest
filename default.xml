@@ -4,8 +4,7 @@
   <remote name="arkq" fetch="https://github.com/Arkq"/>
   <remote name="kuzhylol" fetch="git@github.com:kuzhylol"/>
 
-  <project remote="mikebrady" revision="master" name="shairport-sync" path="shairport-sync-v1"/>
-  <project remote="mikebrady" revision="master" name="shairport-sync" path="shairport-sync-v2"/>
+  <project remote="mikebrady" revision="master" name="shairport-sync" path="shairport-sync"/>
   <project remote="mikebrady" revision="master" name="alac" path="alac"/>
   <project remote="mikebrady" revision="main" name="nqptp" path="nqptp"/>
   <project remote="arkq" revision="master" name="bluez-alsa" path="bluez-alsa"/>
