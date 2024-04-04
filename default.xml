@@ -2,7 +2,7 @@
 <manifest>
   <remote name="mikebrady" fetch="https://github.com/mikebrady"/>
   <remote name="arkq" fetch="https://github.com/Arkq"/>
-  <remote name="kuzhylol" fetch="git@github.com:kuzhylol"/>
+  <remote name="kuzhylol" fetch="https://github.com/kuzhylol"/>
 
   <project remote="mikebrady" revision="d5d984303a88917be80927f65cc0531da30f9e9c" name="shairport-sync" path="shairport-sync"/>
   <project remote="mikebrady" revision="34b327964c2287a49eb79b88b0ace278835ae95f" name="alac" path="alac"/>
