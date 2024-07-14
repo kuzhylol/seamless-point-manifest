@@ -4,7 +4,7 @@ This guide outlines the steps to synchronize the Seamless-Point project reposito
 
 ## Prerequisites
 
-- Ensure you have `repo` installed. You can find installation instructions [here](https://source.android.com/setup/build/downloading#installing-repo).
+- Ensure you have `repo` installed. You can find installation instructions [here](https://gerrit.googlesource.com/git-repo).
 
 ## Steps to Sync the Seamless-Point Project
 
