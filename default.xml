@@ -5,7 +5,7 @@
   <remote name="lvgl" fetch="https://github.com/lvgl"/>
   <remote name="mikebrady" fetch="https://github.com/mikebrady"/>
 
-  <project remote="arkq" revision="master" name="bluez-alsa" path="bluez-alsa"/>
+  <project remote="arkq" revision="1c636fcb267eeea3f3785667e92f703c93dfee39" name="bluez-alsa" path="bluez-alsa"/>
   <project remote="kuzhylol" revision="main" name="seamless-point-ui" path="ui-layer"/>
   <project remote="kuzhylol" revision="main" name="cst816x-driver" path="ui-layer/cst816x-driver"/>
   <project remote="kuzhylol" revision="main" name="seamless-point" path="."/>
