@@ -2,8 +2,10 @@
 <manifest>
   <remote name="openembedded" fetch="git://git.openembedded.org/" />
   <remote name="yocto" fetch="git://git.yoctoproject.org/" />
+  <remote name="github" fetch="https://github.com/" />
   <default revision="scarthgap" remote="openembedded"/>
   <project name="meta-openembedded" path="meta-openembedded" remote="openembedded" revision="scarthgap" />
   <project name="meta-raspberrypi" path="meta-raspberrypi" remote="yocto" revision="scarthgap" />
   <project name="poky" path="poky" remote="yocto" revision="scarthgap" />
+  <project name="kuzhylol/meta-seamless-point" path="meta-seamless-point" remote="github" revision="scarthgap" />
 </manifest>
