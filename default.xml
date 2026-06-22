@@ -4,8 +4,8 @@
   <remote name="yocto" fetch="git://git.yoctoproject.org/" />
   <remote name="github" fetch="https://github.com/" />
   <default revision="scarthgap" remote="openembedded"/>
-  <project name="meta-openembedded" path="meta-openembedded" remote="seamless-point" revision="walnascar" />
-  <project name="meta-raspberrypi" path="meta-raspberrypi" remote="seamless-point" revision="walnascar" />
-  <project name="poky" path="poky" remote="seamless-point" revision="walnascar" />
+  <project name="meta-openembedded" path="meta-openembedded" remote="openembedded" revision="walnascar" />
+  <project name="meta-raspberrypi" path="meta-raspberrypi" remote="yocto" revision="walnascar" />
+  <project name="poky" path="poky" remote="yocto" revision="walnascar" />
   <project name="kuzhylol/meta-seamless-point" path="meta-seamless-point" remote="seamless-point" revision="scarthgap" />
 </manifest>
