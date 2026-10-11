@@ -1,6 +1,8 @@
 # Sync seamless-point project
-mkdir -p seamless-point && cd seamless-point
+mkdir -p seamless-point
 
-repo init -u git@github.com:kuzhylol/seamless-point-manifest.git -b yocto-next
+cd seamless-point
+
+repo init -u git@github.com:kuzhylol/seamless-point-manifest.git -b scarthgap
 
 repo sync -j$(nproc)
